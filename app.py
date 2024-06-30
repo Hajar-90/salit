@@ -4,7 +4,7 @@ from PIL import Image
 import numpy as np
 
 # Specify the absolute path to your model file
-cnn_model_path = 'oneone.keras'  # Update with your actual file path
+cnn_model_path = 'finalit.h5'  # Update with your actual file path
 
 # Load CNN model with error handling
 model_loaded = False
